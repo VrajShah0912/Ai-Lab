@@ -1,0 +1,7 @@
+From,To,Weight,Heuristic
+A,B,1,7
+A,C,3,
+B,D,1,6
+C,D,1,2
+D,E,5,1
+E,,,0
